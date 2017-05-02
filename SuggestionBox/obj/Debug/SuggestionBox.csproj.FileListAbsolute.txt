@@ -51,3 +51,7 @@ c:\users\wecancodeit\documents\visual studio 2015\Projects\SuggestionBox\Suggest
 c:\users\wecancodeit\documents\visual studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.csprojResolveAssemblyReference.cache
 c:\users\wecancodeit\documents\visual studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.dll
 c:\users\wecancodeit\documents\visual studio 2015\Projects\SuggestionBox\SuggestionBox\obj\Debug\SuggestionBox.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.SqlServer.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\SuggestionBox\SuggestionBox\bin\EntityFramework.SqlServer.xml
